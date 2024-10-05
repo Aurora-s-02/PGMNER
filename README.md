@@ -5,7 +5,7 @@ In this paper, we focus on multimodal co-reference disambiguation and named enti
 This code requires the following:python 3.8
 
 # Prepare dataset
-Create a folder.data/
+Create a folder.data/ <br>
 Data is [here](https://drive.google.com/drive/folders/1qiMRSq4xgaZhOL6AfDOvYr_yHyXuY7QU?usp=drive_link).
 
 # Training script
